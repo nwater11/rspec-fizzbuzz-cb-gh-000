@@ -5,5 +5,4 @@ def fizzbuzz(number)
     "Buzz"
   elsif number % 3 && number % 5
     "FizzBuzz"
-  else
-end
+  end
